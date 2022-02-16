@@ -14,3 +14,6 @@
 #Sexto Exercicio (positiveOrNegative) =  Programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
 
 #Setimo Exercicio (Worker) = Leitura dos dados de um trabalhador com N contratos(N fornecido pelo usuário). Depois, solicitado do usuário um mês e mostrar qual foi o salário do funcionário no mês.
+
+#Oitavo Exercicio (HerançaAndPolimorfismo) = A empresa possui funcionários próprios e terceirizados. Para cada funcionário, deseja-se registrar nome, horas trabalhadas e valor por hora. Funcionários terceirizados possuem ainda uma despesa adicional. O pagamento dos funcionários corresponde ao valor da hora multiplicado pelas horas trabalhadas, sendo que os funcionários terceirizados ainda recebem um bônus correspondente a 110% de sua despesa adicional.
+O programa realiza a leitura  dos dados de N funcionários (N fornecido pelo usuário) e armazená-los em uma lista. Depois de ler todos os dados, mostrar nome e pagamento de cada funcionário na mesma ordem em que foram digitados.
